@@ -1,0 +1,17 @@
+<tweet>
+	<nombre>alberto</nombre>
+	<usuario>
+		<nombre>@Gorens</nombre>
+		<correo>alberto@gmail.com</correo>
+		<foto>https://cdn.euroinnova.edu.es/img/subidasEditor/magister%20territorio%20y%20paisaje-1591080260.webp</foto>
+	</usuario>
+	<contenido>
+		<mensaje>no pude entregar la tarea debido a que no estaba disponible la fecha de entrega</mensaje>
+	</contenido>
+	<retwwets>21</retweets>
+	<likes>19</likes>
+	<coemtarios>
+		<coemtario1>yo tengo el mismo problema</comentario1>
+		<comentario2>a mi tambien me paso lo mismo</comentario2>
+	</coemtarios>
+</tweet>

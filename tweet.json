@@ -1,0 +1,17 @@
+{
+	"nombre":"alberto",
+	"usuario":"gorens",
+	"seguidores"[
+		{"nombre":"seguidor1"},
+		{"nombre":"seguidor2"},
+	],
+	"contenido":[
+		{"mensaje":"no pude entregar la tarea debido a que no estaba disponible la fecha de entrega"},
+		],
+		"retweets":"21",
+		"likes":"19",
+		"coemtarios":[
+			{"coemtario1":"yo tengo el mismo problema"},
+			{"coemtario2":"a mi tambien me paso lo mismo"},
+		],
+}
